@@ -1,0 +1,8 @@
+graphviz
+Fernet
+geopy
+great_expectations
+folium
+geopandas
+earthpy
+plotly
